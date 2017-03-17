@@ -33,7 +33,7 @@ body{
 }
 #p1{
   font-family: impact;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
 }
 blockquote{
@@ -44,9 +44,7 @@ blockquote{
   float: right;
   width:80%;
   height:80%;
-
 }
-
 
 #arch{
   float: right;
@@ -68,4 +66,22 @@ blockquote{
   border: 6px solid #f2f5f7;
   padding: 1px;
   background-color: #555859;
+}
+.panel2{
+  float:right;
+}
+.panel3{
+  float:right;
+}
+.work{
+  color: white;
+}
+.work1{
+  color: white;
+}
+.work2{
+  color: white;
+}
+.work3{
+  color: white;
 }

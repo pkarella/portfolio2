@@ -1,6 +1,6 @@
 #_{portfolio}_
 
-####_{A simple navigitable portfolio},{4/17/2017}
+####_{A simple navigitable portfolio},{4/17/2017}_
 
 #### By_**{Me myself and I}**_
 
@@ -19,7 +19,7 @@ _{This is a simple portfolio project for the first week of epicodus}_
 
 ##Support and contact details
 
-_{ Let me know if there are any issues. contact info: Peter Karellas pkarella27@yahoo.com}
+_{ Let me know if there are any issues. contact info: Peter Karellas pkarella27@yahoo.com}_
 
 ## Technologies Used
 
