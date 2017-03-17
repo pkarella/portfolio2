@@ -1,7 +1,7 @@
 .logo{
   float:right;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   border: 2px black;
   padding: 2px;
 }
@@ -17,13 +17,21 @@ h1 {
   font-size: 15px;
 }
 body{
-  background-color: #373833;
+  background-color: #c7e0e5;
 }
 
 .list{
   list-style-type: none;
   color:white;
+  font-size: 25px;
 }
 .nav-tabs{
-  text-align: right;
+
+}
+.container middle{
+  color: white:
+}
+#p1{
+  font-family: impact;
+  font-size: 30px;
 }
