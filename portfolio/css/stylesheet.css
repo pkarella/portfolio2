@@ -1,0 +1,21 @@
+.logo{
+  float:right;
+  width: 40%;
+  height: 40%;
+  border: 2px black;
+  padding: 2px;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+  font-family: Gill Sans Extrabold,sans-serif;
+  font-size: 40px
+}
+
+.jumbotron {
+  font-size: 20px;
+}
+p {
+  font-size: 10px;
+}
