@@ -7,15 +7,23 @@
 }
 
 h1 {
-  color: Black;
-  text-align: center;
+  color: White;
+  text-align: left;
   font-family: Gill Sans Extrabold,sans-serif;
   font-size: 40px
 }
 
-.jumbotron {
-  font-size: 20px;
+.jumbotron p.error-message {
+  font-size: 15px;
 }
-p {
-  font-size: 10px;
+body{
+  background-color: #373833;
+}
+
+.list{
+  list-style-type: none;
+  color:white;
+}
+.nav-tabs{
+  text-align: right;
 }
