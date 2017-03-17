@@ -17,7 +17,7 @@ h1 {
   font-size: 15px;
 }
 body{
-  background-color: #c7e0e5;
+  background-color: #063c59;
 }
 
 .list{
@@ -34,4 +34,9 @@ body{
 #p1{
   font-family: impact;
   font-size: 30px;
+  color: white;
+}
+blockquote{
+  font-family: cursive;
+  font-size: 20px;
 }
