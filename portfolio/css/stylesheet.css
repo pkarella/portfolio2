@@ -40,3 +40,32 @@ blockquote{
   font-family: cursive;
   font-size: 20px;
 }
+#bake{
+  float: right;
+  width:80%;
+  height:80%;
+
+}
+
+
+#arch{
+  float: right;
+  width:80%;
+  height:80%;
+}
+#art{
+  float: right;
+  width:80%;
+  height:80%;
+}
+#bar{
+  float: right;
+  width:80%;
+  height:80%;
+}
+.box{
+  margin: 8px;
+  border: 6px solid #f2f5f7;
+  padding: 1px;
+  background-color: #555859;
+}
