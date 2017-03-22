@@ -1,8 +1,8 @@
-#_{portfolio}_
+#_Portfolio_
 
-####_{A simple navigitable portfolio},{4/17/2017}_
+####_A simple navigitable portfolio,4/17/2017_
 
-#### By_**{Me myself and I}**_
+#### By_**Me myself and I**_
 
 ## Description
 
